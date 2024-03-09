@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/paper-kit-react/static/css/main.78268b78.css",
+    "main.js": "/paper-kit-react/static/js/main.e3d4953e.js",
+    "static/media/moving-header.jpg": "/paper-kit-react/static/media/moving-header.6bca17be030588d36f06.jpg",
+    "static/media/nucleo-icons.eot": "/paper-kit-react/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/paper-kit-react/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/paper-kit-react/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/paper-kit-react/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/paper-kit-react/index.html",
+    "main.78268b78.css.map": "/paper-kit-react/static/css/main.78268b78.css.map",
+    "main.e3d4953e.js.map": "/paper-kit-react/static/js/main.e3d4953e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78268b78.css",
+    "static/js/main.e3d4953e.js"
+  ]
+}
