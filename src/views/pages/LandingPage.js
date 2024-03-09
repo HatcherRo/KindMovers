@@ -1,8 +1,7 @@
 import React from 'react';
 
 import LandingPageHeader from 'components/Headers/LandingPageHeader.js';
-// core components
-import Navbar from 'components/Navbars/Navbar.js';
+import MainNavbar from 'components/Navbars/MainNavbar';
 // reactstrap components
 import {
   Button,
@@ -30,7 +29,7 @@ function LandingPage() {
   });
   return (
     <>
-      <Navbar />
+      <MainNavbar />
       <LandingPageHeader />
       <div className="main">
         <div className="section text-center">

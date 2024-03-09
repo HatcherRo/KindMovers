@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/paper-kit-react/static/css/main.78268b78.css",
-    "main.js": "/paper-kit-react/static/js/main.e3d4953e.js",
-    "static/media/moving-header.jpg": "/paper-kit-react/static/media/moving-header.6bca17be030588d36f06.jpg",
-    "static/media/nucleo-icons.eot": "/paper-kit-react/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
-    "static/media/nucleo-icons.ttf": "/paper-kit-react/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
-    "static/media/nucleo-icons.woff": "/paper-kit-react/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/nucleo-icons.woff2": "/paper-kit-react/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
-    "index.html": "/paper-kit-react/index.html",
-    "main.78268b78.css.map": "/paper-kit-react/static/css/main.78268b78.css.map",
-    "main.e3d4953e.js.map": "/paper-kit-react/static/js/main.e3d4953e.js.map"
+    "main.css": "/KindMovers/static/css/main.6b3b95fb.css",
+    "main.js": "/KindMovers/static/js/main.c8831cb8.js",
+    "static/media/moving-header.jpg": "/KindMovers/static/media/moving-header.6bca17be030588d36f06.jpg",
+    "static/media/nucleo-icons.eot": "/KindMovers/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/KindMovers/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/KindMovers/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/KindMovers/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "index.html": "/KindMovers/index.html",
+    "main.6b3b95fb.css.map": "/KindMovers/static/css/main.6b3b95fb.css.map",
+    "main.c8831cb8.js.map": "/KindMovers/static/js/main.c8831cb8.js.map"
   },
   "entrypoints": [
-    "static/css/main.78268b78.css",
-    "static/js/main.e3d4953e.js"
+    "static/css/main.6b3b95fb.css",
+    "static/js/main.c8831cb8.js"
   ]
 }

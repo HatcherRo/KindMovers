@@ -26,12 +26,13 @@ import {
   Collapse,
   Container,
   Nav,
+  Navbar,
   NavbarBrand,
   NavItem,
   NavLink,
 } from 'reactstrap';
 
-function Navbar() {
+function MainNavbar() {
   const [navbarColor, setNavbarColor] = React.useState("navbar-transparent");
   const [navbarCollapse, setNavbarCollapse] = React.useState(false);
 
@@ -136,4 +137,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default MainNavbar;
